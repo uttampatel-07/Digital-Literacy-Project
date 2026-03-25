@@ -1,4 +1,8 @@
 # Stay Safe Online – Prevention Checklist
+**Name:** Uttam Pankajbhai Savaliya\
+**Reg No:** 25BAS10005
+
+------------------------------------------------------------------------
 
 - Do not share OTP, passwords, or bank details  
 - Always verify website URLs  
