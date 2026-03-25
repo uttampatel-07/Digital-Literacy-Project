@@ -24,16 +24,17 @@ This project focuses on understanding digital literacy and its importance in tod
 - Platforms:
   - LinkedIn  
   - GitHub  
-- Files:
-  - `task-2/Linkedin.png`
-  - `task-2/Github.png`
+
+**Files:**
+- `task-2/Github.png`
+- `task-2/linkedin.png`
 
 ---
 
 ### 🟦 Task 3 – Coding & Google Forms
 - Practiced coding on HackerRank and solved beginner problems  
 - Earned **Problem Solving (Basic) certification**  
-- Created a **Google Form quiz** on digital literacy  
+- Created a Google Form quiz on digital literacy  
 - Collected and analyzed responses  
 
 **Files:**
@@ -65,6 +66,12 @@ This project focuses on understanding digital literacy and its importance in tod
 **Files:**
 - `task-5/casestudy.md`
 - `task-5/prevention-checklist.md`
+
+---
+
+## 📄 Project Report
+- Final report of the project is included:
+- `Report.pdf`
 
 ---
 
