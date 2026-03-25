@@ -1,6 +1,6 @@
 # Social Media Do's and Don'ts Checklist
 
-**Name:** Uttam Pankajbhai Savaliya\
+**Name:**Savaliya Uttam Pankajbhai\
 **Reg No:** 25BAS10005
 
 ------------------------------------------------------------------------
