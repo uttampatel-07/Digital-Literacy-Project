@@ -1,5 +1,5 @@
 # Stay Safe Online – Prevention Checklist
-**Name:** Uttam Pankajbhai Savaliya\
+**Name:** Savaliya Uttam Pankajbhai\
 **Reg No:** 25BAS10005
 
 ------------------------------------------------------------------------
